@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [a Restful API with Spring Boot](https://github.com/JulioLaneri/sistema-sd)
 
-- 🌱 I’m currently learning  **Vue.js**<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="20" height="20"/> </a>
-
 - 📫 How to reach me **juliobenitezlaneri@gmail.com**
 
 
